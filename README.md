@@ -1,2 +1,4 @@
-# guebbit-php-library
-my php library for everyday work
+- Keychain
+	- Togliere riferimenti a Keychain da Tinyjpg e Guebbimage
+	- Mettere un check per Keychain e gestire l'errore se non c'è
+- Standardizzare con Composer
